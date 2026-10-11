@@ -51,8 +51,9 @@ NDCG@10 sui 300 utenti simulati (tabella completa in
   in `archive/`. Al primo uso il codice controlla che siano i file originali.
 - **free-exercise-db** — <https://github.com/yuhonas/free-exercise-db>, dominio pubblico:
   serve a sapere quale muscolo allena ogni esercizio. Si scarica da solo.
-- **Questionario** — le risposte individuali restano private; nel progetto ci sono solo
-  i risultati aggregati.
+- **Questionario** — le 46 risposte, anonime, in
+  `data/valutazione/risposte_questionario_anonime.csv`: è stata tolta solo l'ora di
+  compilazione.
 - **Annotazioni** — `data/annotazione_muscoli.csv` (125 nomi di esercizi annotati a mano,
   per misurare la precisione dell'abbinamento ai muscoli) e `data/valutazione/frasi_utente.csv`
   (72 frasi per confrontare regole e classificatori sul testo).
@@ -68,17 +69,13 @@ source .venv/bin/activate          # su Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
 # tutti gli script, in quest'ordine (12 va prima di 07, 22 prima di 17)
-for n in 01 02 03 04 05 12 06 07 08 09 10 11 13 14 15 18 19 21 22 17; do
+for n in 01 02 03 04 05 12 06 07 08 09 10 11 13 14 15 16 18 19 21 22 17; do
     python scripts/${n}_*.py
 done
 
 # la demo
 streamlit run app_utente.py
 ```
-
-`scripts/16_questionario.py` non è nel ciclo: legge le risposte individuali del
-questionario, che non sono pubblicate. I suoi risultati aggregati sono già in
-`outputs/tables/` (i file `questionario_*.csv`).
 
 ## Struttura
 

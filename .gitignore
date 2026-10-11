@@ -2,12 +2,13 @@
 archive/
 # Dati generati dalla pipeline
 data/processed/
-# Risposte individuali del questionario: restano private
+# Export originale del questionario, con l'ora di compilazione: resta privato
 data/valutazione/risposte_questionario.csv
 *.csv
 !outputs/tables/*.csv
 !data/annotazione_muscoli.csv
 !data/valutazione/frasi_utente.csv
+!data/valutazione/risposte_questionario_anonime.csv
 
 # Ambiente virtuale
 .venv/

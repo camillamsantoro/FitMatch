@@ -2,7 +2,7 @@
 
 Confronta la scelta di ogni rispondente con quella del simulatore e prova le regole
 di src/richiesta.py su frasi vere. Le scelte sono sbilanciate, quindi il riferimento
-non e' il 33%. Prima va salvato l'export in data/valutazione/risposte_questionario.csv.
+non e' il 33%. Le risposte sono in data/valutazione/risposte_questionario_anonime.csv, senza l'ora di compilazione.
 """
 import math
 import re
@@ -30,7 +30,7 @@ from src.quality import RIFERIMENTO_EQUILIBRIO
 from src.scoring import FATTORE_ENFASI
 from scipy.stats import binomtest
 
-RISPOSTE = ROOT / "data" / "valutazione" / "risposte_questionario.csv"
+RISPOSTE = ROOT / "data" / "valutazione" / "risposte_questionario_anonime.csv"
 FRASI = ROOT / "data" / "valutazione" / "frasi_utente.csv"
 PROCESSED = ROOT / "data" / "processed"
 ASSENTE = "(assente)"
