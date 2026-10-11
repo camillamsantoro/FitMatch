@@ -1,0 +1,16 @@
+dimensione,segmento,utenti,guadagno,sovraccarico_lambda0_%,sovraccarico_lambda03_%,ic_guadagno,significativo,ic_guadagno_bonferroni,significativo_bonferroni,sovraccarico_aggiunto_punti,ic_sovraccarico_aggiunto
+attrezzatura,At Home,74,0.0371,9.5,17.7,"[+0.0226, +0.0520]",True,"[+0.0182, +0.0561]",True,8.2,"[+4.7, +12.0]"
+attrezzatura,Dumbbell Only,29,0.0268,17.2,22.1,"[+0.0116, +0.0436]",True,"[+0.0077, +0.0481]",True,4.8,"[+2.8, +7.2]"
+attrezzatura,Full Gym,145,0.0386,11.7,17.4,"[+0.0270, +0.0500]",True,"[+0.0235, +0.0535]",True,5.7,"[+3.2, +8.3]"
+attrezzatura,Garage Gym,52,0.0446,9.6,18.5,"[+0.0236, +0.0661]",True,"[+0.0177, +0.0718]",True,8.8,"[+4.6, +13.5]"
+livello,Advanced,37,0.0272,0.3,0.5,"[+0.0111, +0.0437]",True,"[+0.0081, +0.0479]",True,0.3,"[+0.0, +0.8]"
+livello,Beginner,91,0.0191,24.8,41.4,"[+0.0034, +0.0352]",True,"[-0.0024, +0.0397]",False,16.6,"[+12.9, +20.2]"
+livello,Intermediate,86,0.0444,3.1,4.5,"[+0.0321, +0.0569]",True,"[+0.0289, +0.0606]",True,1.4,"[-0.2, +3.5]"
+livello,Novice,86,0.0568,10.0,14.7,"[+0.0428, +0.0712]",True,"[+0.0390, +0.0747]",True,4.7,"[+1.9, +7.6]"
+obiettivo,Athletics,34,0.0379,9.1,24.1,"[+0.0129, +0.0623]",True,"[+0.0043, +0.0739]",True,15.0,"[+8.8, +22.1]"
+obiettivo,Bodybuilding,80,0.0387,9.2,13.9,"[+0.0237, +0.0532]",True,"[+0.0189, +0.0590]",True,4.6,"[+1.2, +8.0]"
+obiettivo,Bodyweight Fitness,28,0.0084,18.6,30.4,"[-0.0146, +0.0293]",False,"[-0.0204, +0.0384]",False,11.8,"[+6.8, +17.5]"
+obiettivo,Muscle & Sculpting,87,0.0545,12.2,16.8,"[+0.0394, +0.0689]",True,"[+0.0346, +0.0744]",True,4.6,"[+1.5, +7.8]"
+obiettivo,Olympic Weightlifting,7,0.0217,14.3,22.9,meno di 20 utenti,,,,,
+obiettivo,Powerbuilding,35,0.0411,7.4,12.9,"[+0.0232, +0.0600]",True,"[+0.0159, +0.0663]",True,5.4,"[+1.7, +9.1]"
+obiettivo,Powerlifting,29,0.0166,14.1,20.3,"[-0.0137, +0.0433]",False,"[-0.0247, +0.0527]",False,6.2,"[+2.8, +10.3]"

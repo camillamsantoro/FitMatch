@@ -1,0 +1,5 @@
+misura,con_meno_senza,ic,significativa
+NDCG del completo,0.013,"[+0.0039, +0.0219]",True
+NDCG della sola rilevanza,0.0357,"[+0.0262, +0.0459]",True
+sovraccarico (punti),-15.7,"[-18.0, -13.3]",True
+probabilita' di abbandono,-0.0835,"[-0.0947, -0.0721]",True

@@ -1,0 +1,5 @@
+variante,media,obiettivo
+"Random Forest, 20 semi: minimo",0.574,
+"Random Forest, 20 semi: media",0.602,
+"Random Forest, 20 semi: massimo",0.63,
+SVM senza class_weight bilanciato,0.593,0.611

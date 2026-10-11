@@ -1,0 +1,34 @@
+metadato,trasformazione,verso,parametro,ndcg_seme7
+durata in settimane,min-max,crescente,,0.7472
+durata in settimane,min-max,decrescente,,0.5454
+durata in settimane,rango,crescente,,0.7497
+durata in settimane,rango,decrescente,,0.5825
+durata in settimane,log + min-max,crescente,,0.7651
+durata in settimane,log + min-max,decrescente,,0.4267
+durata in settimane,log + min-max,crescente,alfa=0.0,0.7651
+durata in settimane,log + min-max,crescente,alfa=0.25,0.779
+durata in settimane,log + min-max,crescente,alfa=0.5,0.7892
+durata in settimane,log + min-max,crescente,alfa=0.75,0.7917
+durata in settimane,log + min-max,crescente,alfa=1.0,0.7824
+numero di esercizi,min-max,crescente,,0.7604
+numero di esercizi,min-max,decrescente,,0.6913
+numero di esercizi,rango,crescente,,0.7476
+numero di esercizi,rango,decrescente,,0.6276
+numero di esercizi,log + min-max,crescente,,0.7791
+numero di esercizi,log + min-max,decrescente,,0.5507
+numero di esercizi,log + min-max,crescente,alfa=0.0,0.7791
+numero di esercizi,log + min-max,crescente,alfa=0.25,0.7914
+numero di esercizi,log + min-max,crescente,alfa=0.5,0.7923
+numero di esercizi,log + min-max,crescente,alfa=0.75,0.7884
+numero di esercizi,log + min-max,crescente,alfa=1.0,0.7824
+numero di obiettivi dichiarati,min-max,crescente,,0.7281
+numero di obiettivi dichiarati,min-max,decrescente,,0.7252
+numero di obiettivi dichiarati,rango,crescente,,0.7384
+numero di obiettivi dichiarati,rango,decrescente,,0.7138
+numero di obiettivi dichiarati,log + min-max,crescente,,0.7355
+numero di obiettivi dichiarati,log + min-max,decrescente,,0.7164
+numero di obiettivi dichiarati,rango,crescente,alfa=0.0,0.7384
+numero di obiettivi dichiarati,rango,crescente,alfa=0.25,0.7468
+numero di obiettivi dichiarati,rango,crescente,alfa=0.5,0.7573
+numero di obiettivi dichiarati,rango,crescente,alfa=0.75,0.7689
+numero di obiettivi dichiarati,rango,crescente,alfa=1.0,0.7824

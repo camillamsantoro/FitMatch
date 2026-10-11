@@ -1,0 +1,7 @@
+campo,frasi,riconosciuto_dalle_regole,corretto_fra_quelle,quota_riconosciuto,quota_corretto
+obiettivo,46,23,20,0.5,0.87
+livello,46,1,1,0.022,1.0
+attrezzatura,46,19,17,0.413,0.895
+giorni,46,7,6,0.152,0.857
+minuti,46,1,0,0.022,0.0
+zone,46,5,3,0.109,0.6

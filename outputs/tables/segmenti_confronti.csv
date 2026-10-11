@@ -1,0 +1,7 @@
+confronto,differenza,ic,significativo
+"NDCG, solo manubri - palestra",0.108,"[+0.082, +0.134]",True
+"qualita' top-10, solo manubri - palestra",-0.194,"[-0.228, -0.160]",True
+"sovraccarico, solo manubri - palestra",4.6,"[-6.1, +16.4]",False
+"guadagno, palestra - garage",-0.006,"[-0.031, +0.018]",False
+"sovraccarico, principianti - avanzati",40.9,"[+34.1, +47.4]",True
+"guadagno, novizi - principianti",0.038,"[+0.017, +0.059]",True

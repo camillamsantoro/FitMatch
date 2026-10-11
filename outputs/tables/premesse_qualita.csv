@@ -1,0 +1,15 @@
+misura,valore
+correlazione qualita ~ time_per_workout,0.056
+correlazione qualita ~ program_length,0.067
+correlazione qualita ~ livello_min,0.153
+correlazione qualita ~ total_exercises,0.024
+correlazione qualita ~ settimane,0.066
+correlazione qualita ~ n_obiettivi,0.037
+correlazione massima fra due componenti,0.179
+coppia piu' correlata (q_frequenza e q_varieta),0.179
+programmi con progressione misurabile,2540.0
+programmi penalizzati per progressione,1705.0
+programmi con frequenza misurabile,2668.0
+programmi con frequenza al voto pieno,1803.0
+correlazione coerenza ~ numero di obiettivi,0.36
+programmi con piu' di un obiettivo dichiarato,1544.0

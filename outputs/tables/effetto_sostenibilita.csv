@@ -1,0 +1,3 @@
+configurazione,peso_sostenibilita,ndcg,ndcg_sola_rilevanza,quota_sovraccarico_%,probabilita_abbandono
+senza sostenibilita,0.0,0.77,0.71,33.8,0.338
+con sostenibilita (scelto),0.13,0.783,0.745,18.1,0.255

@@ -1,0 +1,16 @@
+categoria,voce,valore
+versioni,titoli con piu' versioni,56
+versioni,programmi in piu' grazie alla separazione,101
+correzione su riga,righe con durata oltre 2 ore (azzerate),92
+correzione su riga,righe con piu' di 15 serie (limitate),48
+esclusione programma,giorni a settimana oltre 7,8
+esclusione programma,serie a settimana oltre 200,10
+esclusione programma,esercizi per sessione oltre 20,3
+esclusione programma,livello non dichiarato,8
+esclusione programma,obiettivo non dichiarato,8
+esclusione programma,attrezzatura non dichiarata,1
+esclusione programma,durata del programma non dichiarata,1
+totale,programmi di partenza,2699
+totale,programmi esclusi (conteggio unico),28
+totale,programmi nel catalogo pulito,2671
+totale,di cui con progressione non misurabile,131

@@ -1,0 +1,14 @@
+configurazione,ndcg,precision,differenza_ndcg,ic_differenza,significativo,ndcg_mancanti_alla_media
+sistema completo,0.783,0.411,0.0,,,
+senza volume,0.775,0.393,-0.0081,"[-0.0112, -0.0052]",True,
+senza frequenza,0.785,0.411,0.0016,"[-0.0003, +0.0036]",False,
+senza progressione,0.807,0.462,0.0239,"[+0.0186, +0.0289]",True,
+senza equilibrio,0.778,0.397,-0.005,"[-0.0073, -0.0026]",True,
+senza varieta,0.726,0.365,-0.0577,"[-0.0644, -0.0512]",True,
+senza coerenza,0.786,0.416,0.0027,"[+0.0010, +0.0044]",True,
+solo volume,0.768,0.414,-0.0153,"[-0.0224, -0.0082]",True,
+solo frequenza,0.754,0.367,-0.0298,"[-0.0361, -0.0235]",True,0.754
+solo progressione,0.749,0.33,-0.0343,"[-0.0410, -0.0277]",True,0.745
+solo equilibrio,0.761,0.416,-0.0222,"[-0.0297, -0.0157]",True,0.761
+solo varieta,0.79,0.413,0.007,"[+0.0001, +0.0136]",True,
+solo coerenza,0.739,0.372,-0.0442,"[-0.0527, -0.0366]",True,0.739

@@ -1,0 +1,5 @@
+gradino,ndcg,ic,guadagno_sul_precedente,ic_guadagno,significativo
+solo metadati (contatore di vincoli),0.706,"[0.694, 0.716]",,,
+"+ penalita' graduali, senza sostenibilita' ne' enfasi",0.715,"[0.704, 0.726]",0.0093,"[+0.0049, +0.0140]",True
++ sostenibilita',0.745,"[0.734, 0.756]",0.0304,"[+0.0197, +0.0409]",True
++ enfasi (= rilevanza graduale),0.745,"[0.735, 0.756]",-0.0,"[-0.0061, +0.0062]",False

@@ -1,0 +1,3 @@
+parametro,valore_usato,ottimo_fuori_campione,indistinguibili_dal_valore_usato
+lambda,0.3,0.4,0.3 0.4 0.5
+peso_enfasi,0.1,0.0,0.0 0.1 0.15

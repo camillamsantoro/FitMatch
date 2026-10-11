@@ -1,0 +1,10 @@
+variante,valore,su
+simulatore e sistema scelgono lo stesso programma,42.0,46
+capacita' x0.5,31.0,46
+capacita' x0.75,28.0,46
+capacita' x1.25,26.0,46
+capacita' x1.5,26.0,46
+capacita' x2.0,26.0,46
+"con il rumore, 20 semi: minimo",21.0,46
+"con il rumore, 20 semi: media",26.3,46
+"con il rumore, 20 semi: massimo",34.0,46

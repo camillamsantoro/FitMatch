@@ -1,0 +1,4 @@
+campione,nomi_valutati,corretti,precisione_nomi_%,precisione_righe_%,ambigui_esclusi,ic_95%
+frequenti,45,45,100.0,100.0,0,"[92.1%, 100.0%]"
+A_sviluppo,36,36,100.0,100.0,4,"[90.4%, 100.0%]"
+B_test,40,39,97.5,99.9,0,"[87.1%, 99.6%]"

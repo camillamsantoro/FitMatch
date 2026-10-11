@@ -1,0 +1,7 @@
+sostituto,trasformazione,ndcg,guadagno_su_sola_rilevanza,ic_guadagno,significativo,qualita_meno_sostituto,ic_qualita_meno_sostituto,alfa_misto,misto_meno_sostituto,ic_misto_meno_sostituto
+qualita (il nostro punteggio),,0.783,0.0381,"[+0.0305, +0.0461]",True,,,,,
+solo il voto di varieta',,0.79,0.0452,"[+0.0396, +0.0511]",True,,,,,
+solo il voto di coerenza,,0.739,-0.0061,"[-0.0113, -0.0013]",False,,,,,
+durata in settimane,log + min-max,0.762,0.0171,"[+0.0100, +0.0247]",True,0.021,"[+0.0137, +0.0285]",0.75,0.026,"[+0.0199, +0.0323]"
+numero di esercizi,log + min-max,0.779,0.0333,"[+0.0261, +0.0406]",True,0.0049,"[-0.0015, +0.0116]",0.5,0.0115,"[+0.0070, +0.0159]"
+numero di obiettivi dichiarati,rango,0.744,-0.0009,"[-0.0075, +0.0060]",False,0.039,"[+0.0317, +0.0467]",1.0,0.039,"[+0.0317, +0.0467]"

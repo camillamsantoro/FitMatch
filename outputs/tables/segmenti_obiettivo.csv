@@ -1,0 +1,8 @@
+obiettivo,utenti,programmi_fattibili,ndcg_completo,ndcg_rilevanza,guadagno,precision,qualita_top10,sovraccarico,abbandono
+Bodybuilding,80,2671.0,0.771,0.733,0.039,0.368,0.839,0.139,0.232
+Bodyweight Fitness,28,785.0,0.777,0.769,0.008,0.493,0.776,0.304,0.323
+Muscle & Sculpting,87,2671.0,0.778,0.724,0.055,0.377,0.843,0.168,0.235
+Olympic Weightlifting,7,2671.0,0.784,0.762,0.022,0.514,0.744,0.229,0.273
+Powerbuilding,35,785.0,0.791,0.75,0.041,0.374,0.799,0.129,0.227
+Athletics,34,785.0,0.803,0.765,0.038,0.497,0.758,0.241,0.294
+Powerlifting,29,785.0,0.805,0.788,0.017,0.472,0.758,0.203,0.295

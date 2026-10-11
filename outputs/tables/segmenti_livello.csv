@@ -1,0 +1,5 @@
+livello,utenti,programmi_fattibili,ndcg_completo,ndcg_rilevanza,guadagno,precision,qualita_top10,sovraccarico,abbandono
+Intermediate,86,2671.0,0.774,0.729,0.044,0.302,0.833,0.045,0.18
+Beginner,91,2671.0,0.784,0.765,0.019,0.537,0.779,0.414,0.39
+Novice,86,785.0,0.789,0.732,0.057,0.373,0.816,0.147,0.237
+Advanced,37,2671.0,0.79,0.763,0.027,0.441,0.821,0.005,0.139

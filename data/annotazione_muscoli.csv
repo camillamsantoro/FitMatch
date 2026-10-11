@@ -1,0 +1,126 @@
+exercise_name,macro_atteso,campione
+Bench Press (Barbell),petto,frequenti
+Squat (Barbell),gambe,frequenti
+Leg Extension,gambe,frequenti
+Lateral Raise (Dumbbell),spalle,frequenti
+Lat Pulldown,dorso,frequenti
+Incline Bench Press (Dumbbell),petto,frequenti
+Deadlift (Barbell),dorso,frequenti
+Standing Calf Raise,gambe,frequenti
+Romanian Deadlift (Barbell),gambe,frequenti
+Tricep Pushdown (Cable),braccia,frequenti
+Leg Curl,gambe,frequenti
+Seated Row (Cable),dorso,frequenti
+Overhead Press (Barbell),spalle,frequenti
+Lateral Raise (Cable),spalle,frequenti
+Hammer Curl,braccia,frequenti
+Leg Press,gambe,frequenti
+Face Pull,spalle,frequenti
+Bicep Curl (Dumbbell),braccia,frequenti
+Incline Bench Press (Barbell),petto,frequenti
+Overhead Tricep Extension (Cable),braccia,frequenti
+Seated Calf Raise,gambe,frequenti
+Seated Shoulder Press (Dumbbell),spalle,frequenti
+Incline Curl (Dumbbell),braccia,frequenti
+Push Up,petto,frequenti
+Lying Leg Curl,gambe,frequenti
+Pull-Up (Weighted),dorso,frequenti
+Dip (Weighted),braccia,frequenti
+Bulgarian Split Squat (Dumbbell),gambe,frequenti
+Bench Press (Dumbbell),petto,frequenti
+Bicep Curl (Cable),braccia,frequenti
+Pull-Up (Bodyweight),dorso,frequenti
+Hanging Leg Raise,core,frequenti
+Plank,core,frequenti
+Chest Supported Row (Machine),dorso,frequenti
+Bent Over Row (Barbell),dorso,frequenti
+Bicep Curl (Barbell),braccia,frequenti
+Bicep Curl (EZ Bar),braccia,frequenti
+Chest Press (Machine),petto,frequenti
+Barbell Row,dorso,frequenti
+Hack Squat,gambe,frequenti
+Chest Fly (Machine),petto,frequenti
+Tricep Rope Push Down (Cable),braccia,frequenti
+Chest Fly (Cable),petto,frequenti
+Pec Deck (Machine),petto,frequenti
+Cable Crunch,core,frequenti
+Arnold Press,spalle,A_sviluppo
+Incline Chest Fly (Dumbbell),petto,A_sviluppo
+Bench Press (Smith Machine),petto,A_sviluppo
+Glute Bridge (Dumbbell),gambe,A_sviluppo
+Landmine Press,spalle,A_sviluppo
+Sumo Deadlift (Paused),gambe,A_sviluppo
+Snatch (Barbell),gambe,A_sviluppo
+Handstand,spalle,A_sviluppo
+Chest-Supported Machine Row,dorso,A_sviluppo
+Wrist Weights,braccia,A_sviluppo
+Isometric Dead Bug,core,A_sviluppo
+Standing Shoulder Press,spalle,A_sviluppo
+Pushup And Chinup Frequency Method,ambiguo,A_sviluppo
+Erg Row,escluso,A_sviluppo
+Single Leg Quad Extension,gambe,A_sviluppo
+Guillotine Press,petto,A_sviluppo
+Band Curls,braccia,A_sviluppo
+Leaning Overhead Extension,braccia,A_sviluppo
+Bodyweight Triceps Extension,braccia,A_sviluppo
+Chest Supported Row,dorso,A_sviluppo
+"Incline Dumbbell Press (12,10,8,6,4)",petto,A_sviluppo
+shrugs,dorso,A_sviluppo
+Plank With Leg Lift,core,A_sviluppo
+"Bulgarian Split Squat (12,10,8,6,4/Per Leg)",gambe,A_sviluppo
+Medicine Ball Floor Throw And Hip Toss,ambiguo,A_sviluppo
+(BACK) Barbell Pendlay Row,dorso,A_sviluppo
+(SHOULDERS) Low Cable Crossover,petto,A_sviluppo
+Speed Bench Press,petto,A_sviluppo
+Single Leg Leg Extension,gambe,A_sviluppo
+Face Pull (Paused),spalle,A_sviluppo
+Machine Leg Press,gambe,A_sviluppo
+Plank To Push-up,core,A_sviluppo
+45 Hamstring Hyper Extension,ambiguo,A_sviluppo
+Hamstring Lean,gambe,A_sviluppo
+Kettlebell Windmill,core,A_sviluppo
+Weighted Alternating Lunge Jump,gambe,A_sviluppo
+Two Phase Pull,ambiguo,A_sviluppo
+Dumbbell seated Row,dorso,A_sviluppo
+Bent Knee Standing Calf Raise,gambe,A_sviluppo
+Chest Supported Lateral Raise,spalle,A_sviluppo
+Rear Delt Fly (Machine),spalle,B_test
+Hammer Curl (Dumbbell),braccia,B_test
+Overhead Press (Dumbbell),spalle,B_test
+Lying Leg Raise,core,B_test
+Reverse Wrist Curl (Dumbbell),braccia,B_test
+Nordic Curl,gambe,B_test
+Single Leg Romanian Deadlift,gambe,B_test
+Stiff Leg Deadlift (Dumbbell),gambe,B_test
+Tricep Extension (Barbell),braccia,B_test
+Pinwheel Curl,braccia,B_test
+Kettlebell Gorilla Row,dorso,B_test
+Dips,braccia,B_test
+Machine Chest Press (Flat),petto,B_test
+Cable Paused Shrug-In,dorso,B_test
+Barbell Reverse Curl,braccia,B_test
+Terminal Knee Extensions,gambe,B_test
+Dumbbell Bench-Braced Wrist Curl,braccia,B_test
+Goblet Lunge Squat Lunge Combo,gambe,B_test
+Incline Tricep Pushdown,braccia,B_test
+Skull Crusher(Ez Bar)(Bar To Chin),braccia,B_test
+"Seated Shoulder Press (12,10,8,6,4)",spalle,B_test
+Sandbag Row,dorso,B_test
+Incline Cable Flys,petto,B_test
+Chest Supported Row (Machine Or Freeweight),dorso,B_test
+Neck Curl&Extension,core,B_test
+Single Arm Diagonal Pulldown (Machine),dorso,B_test
+Hammer Curl Dumbell,braccia,B_test
+Close Grip Pull Up,dorso,B_test
+Copenhagen Plank Dips,core,B_test
+Hammer Preacher Curl (Dumbell),braccia,B_test
+Deficit Pendlay Row,dorso,B_test
+Quad extensions,gambe,B_test
+Bent Over Cable Pec Flye,petto,B_test
+Chest-Supported Row (Machine),dorso,B_test
+Seated Rhino Row,dorso,B_test
+Smith Machine Reverse Lunge,gambe,B_test
+Reverse Grip Pushdown,braccia,B_test
+Preacher Death Curls,braccia,B_test
+Hand Release Push,petto,B_test
+Chest Supported Barbell Lat Row,dorso,B_test

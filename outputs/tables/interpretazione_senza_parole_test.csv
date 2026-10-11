@@ -1,0 +1,4 @@
+regole,obiettivo,livello,attrezzatura,media,parole_tolte
+come sono,0.833,0.972,0.833,0.879,0
+senza le parole che scattano solo sul test,0.667,0.667,0.75,0.695,29
+sulle frasi di sviluppo (ottimistico),0.972,0.972,0.972,0.972,0

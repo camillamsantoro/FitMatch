@@ -1,0 +1,22 @@
+utente,sistema,ndcg,posizione,programma,giorni,minuti,utilita_vera,qualita
+18,casuale,0.153,1,superfart,3,50,0.08,0.63
+18,casuale,0.153,2,Greek body,6,30,0.06,0.41
+18,casuale,0.153,3,Beginner Dumbbell workout,7,40,0.24,0.49
+18,solo metadati,0.519,1,Lvl.1 abs,2,20,0.65,0.42
+18,solo metadati,0.519,2,Chat Gpt Full Body Workout,3,30,0.13,0.77
+18,solo metadati,0.519,3,One Punch Saitama Workout Challenge,1,60,0.59,0.21
+18,solo testo (TF-IDF),0.21,1,Full Body at Home,3,50,0.15,0.59
+18,solo testo (TF-IDF),0.21,2,M&S Dumbbell Only Home or Gym Full Body Workout,3,60,0.1,0.9
+18,solo testo (TF-IDF),0.21,3,Home Bodyweight Muscle Growth,3,60,0.11,0.61
+18,solo testo (semantico LSA),0.214,1,109273941442,7,30,0.24,0.81
+18,solo testo (semantico LSA),0.214,2,M&S Dumbbell Only Home or Gym Full Body Workout,3,60,0.1,0.9
+18,solo testo (semantico LSA),0.214,3,Full Body at Home,3,50,0.15,0.59
+18,solo testo (embeddings),0.102,1,Full Body at Home,3,50,0.15,0.59
+18,solo testo (embeddings),0.102,2,Webslinger (versione 1),6,50,0.09,0.29
+18,solo testo (embeddings),0.102,3,Webslinger (versione 5),6,50,0.07,0.58
+18,rilevanza graduale,0.688,1,100 Push Ups in 6 Weeks,3,10,0.7,0.43
+18,rilevanza graduale,0.688,2,Forearms +neck,3,20,0.75,0.41
+18,rilevanza graduale,0.688,3,Mussel mommy arms,1,10,0.72,0.0
+18,completo (rilevanza + qualita),0.58,1,100 Push Ups in 6 Weeks,3,10,0.7,0.43
+18,completo (rilevanza + qualita),0.58,2,Malone Beginner Strength,3,30,0.54,0.94
+18,completo (rilevanza + qualita),0.58,3,Forearms +neck,3,20,0.75,0.41

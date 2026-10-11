@@ -1,0 +1,10 @@
+scenario,parte,proposte_risparmiate,ic_proposte,sovraccarico_evitato_punti,ic_sovraccarico,utilita_guadagnata,ic_utilita
+stima corretta,totale (statico - adattivo),0.06,"[+0.01, +0.12]",5.7,"[+3.3, +8.3]",-0.004,"[-0.018, +0.011]"
+stima corretta,correzione (statico - senza apprendimento),0.03,"[-0.03, +0.08]",3.7,"[+1.0, +6.4]",0.003,"[-0.010, +0.016]"
+stima corretta,apprendimento (senza apprendimento - adattivo),0.03,"[-0.00, +0.08]",2.0,"[+0.7, +3.7]",-0.006,"[-0.014, +0.001]"
+utenti piu' fragili del previsto (-40%),totale (statico - adattivo),0.21,"[+0.11, +0.31]",11.3,"[+7.9, +15.1]",0.026,"[+0.009, +0.045]"
+utenti piu' fragili del previsto (-40%),correzione (statico - senza apprendimento),0.14,"[+0.03, +0.25]",6.9,"[+3.5, +10.7]",0.02,"[+0.003, +0.038]"
+utenti piu' fragili del previsto (-40%),apprendimento (senza apprendimento - adattivo),0.07,"[+0.01, +0.13]",4.4,"[+2.4, +7.1]",0.003,"[-0.009, +0.015]"
+utenti piu' resistenti del previsto (+40%),totale (statico - adattivo),0.03,"[-0.01, +0.07]",2.3,"[+0.7, +4.0]",-0.009,"[-0.023, +0.004]"
+utenti piu' resistenti del previsto (+40%),correzione (statico - senza apprendimento),0.01,"[-0.03, +0.05]",1.7,"[+0.3, +3.0]",-0.006,"[-0.019, +0.006]"
+utenti piu' resistenti del previsto (+40%),apprendimento (senza apprendimento - adattivo),0.02,"[+0.00, +0.04]",0.7,"[+0.0, +1.7]",-0.003,"[-0.008, +0.001]"

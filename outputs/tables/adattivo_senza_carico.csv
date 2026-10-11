@@ -1,0 +1,7 @@
+scenario,parte,proposte_risparmiate,ic_proposte,sovraccarico_statico_%,sovraccarico_adattivo_%
+stima corretta,totale (statico - adattivo),-0.02,"[-0.05, +0.00]",16.0,10.3
+stima corretta,apprendimento,0.0,"[+0.00, +0.01]",11.0,10.3
+utenti piu' fragili del previsto (-40%),totale (statico - adattivo),-0.02,"[-0.05, +0.00]",50.7,40.0
+utenti piu' fragili del previsto (-40%),apprendimento,0.0,"[+0.00, +0.01]",42.7,40.0
+utenti piu' resistenti del previsto (+40%),totale (statico - adattivo),-0.02,"[-0.05, +0.00]",3.3,1.7
+utenti piu' resistenti del previsto (+40%),apprendimento,0.0,"[+0.00, +0.01]",1.7,1.7

@@ -1,0 +1,4 @@
+misura,valore
+tetto NDCG@10 (sistema perfetto),0.88
+top-10 ideali in comune fra due estrazioni del rumore (su 10),2.2
+NDCG@10 della top-10 ideale di un'altra estrazione del rumore,0.822

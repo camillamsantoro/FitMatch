@@ -1,0 +1,6 @@
+metodo,obiettivo,livello,attrezzatura,media
+Regole esplicite (nostro sistema),0.833,0.972,0.833,0.879
+Logistic Regression,0.611,0.694,0.556,0.62
+Random Forest,0.639,0.694,0.528,0.62
+SVM (kernel lineare),0.056,0.694,0.556,0.435
+Riferimento: sempre la risposta piu' comune,0.611,0.639,0.528,0.593

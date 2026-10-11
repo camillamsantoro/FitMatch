@@ -1,0 +1,7 @@
+previsione,giuste,su,ic,p_contro_un_terzo,accordo_atteso_per_caso,p_contro_caso_stesse_proporzioni,kappa,solo_previsione_giusta,solo_sempre_la_piu_scelta_giusta,p_mcnemar_contro_sempre_la_piu_scelta
+simulatore,27,46,"[44%, 72%]",0.0004,0.457,0.052,0.24,8.0,11.0,0.648
+sistema,25,46,"[40%, 68%]",0.0027,0.457,0.15,0.16,7.0,12.0,0.359
+"simulatore, attrezzatura dichiarata",27,46,"[44%, 72%]",0.0004,0.482,0.101,0.203,7.0,10.0,0.629
+"sistema, attrezzatura dichiarata",26,46,"[42%, 70%]",0.001,0.474,0.136,0.174,7.0,11.0,0.481
+simulatore con le zone dichiarate,29,46,"[49%, 75%]",0.0,0.474,0.023,0.298,8.0,9.0,1.0
+sempre 'A' (la piu' scelta),30,46,,,,,,,,

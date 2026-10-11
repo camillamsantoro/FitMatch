@@ -1,0 +1,13 @@
+regole,contro,obiettivo_solo_regole,obiettivo_solo_modello,obiettivo_p,livello_solo_regole,livello_solo_modello,livello_p,attrezzatura_solo_regole,attrezzatura_solo_modello,attrezzatura_p,differenza_media,ic_differenza_media
+regole come sono,Logistic Regression,11.0,3.0,0.057,11.0,1.0,0.006,10.0,0.0,0.002,0.259,"[+0.167, +0.352]"
+regole come sono,Random Forest,9.0,2.0,0.065,11.0,1.0,0.006,11.0,0.0,0.001,0.259,"[+0.167, +0.352]"
+regole come sono,SVM (kernel lineare),29.0,1.0,0.0,11.0,1.0,0.006,10.0,0.0,0.002,0.444,"[+0.343, +0.546]"
+regole come sono,Wilson obiettivo,,,,,,,,,,0.833,"[0.68, 0.92]"
+regole come sono,Wilson livello,,,,,,,,,,0.972,"[0.86, 1.00]"
+regole come sono,Wilson attrezzatura,,,,,,,,,,0.833,"[0.68, 0.92]"
+regole senza le parole solo-test,Logistic Regression,5.0,3.0,0.727,1.0,2.0,1.0,7.0,0.0,0.016,0.074,"[-0.000, +0.148]"
+regole senza le parole solo-test,Random Forest,3.0,2.0,1.0,0.0,1.0,1.0,8.0,0.0,0.008,0.074,"[+0.009, +0.139]"
+regole senza le parole solo-test,SVM (kernel lineare),24.0,2.0,0.0,0.0,1.0,1.0,7.0,0.0,0.016,0.259,"[+0.167, +0.343]"
+regole senza le parole solo-test,Wilson obiettivo,,,,,,,,,,0.667,"[0.50, 0.80]"
+regole senza le parole solo-test,Wilson livello,,,,,,,,,,0.667,"[0.50, 0.80]"
+regole senza le parole solo-test,Wilson attrezzatura,,,,,,,,,,0.75,"[0.59, 0.86]"

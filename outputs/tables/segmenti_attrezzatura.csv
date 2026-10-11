@@ -1,0 +1,5 @@
+attrezzatura,utenti,programmi_fattibili,ndcg_completo,ndcg_rilevanza,guadagno,precision,qualita_top10,sovraccarico,abbandono
+Full Gym,145,2671.0,0.744,0.705,0.039,0.452,0.868,0.174,0.236
+Garage Gym,52,785.0,0.786,0.742,0.045,0.404,0.844,0.185,0.265
+At Home,74,208.0,0.833,0.796,0.037,0.319,0.728,0.177,0.264
+Dumbbell Only,29,76.0,0.852,0.825,0.027,0.452,0.673,0.221,0.308
